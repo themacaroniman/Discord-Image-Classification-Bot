@@ -40,4 +40,4 @@ async def check(ctx):
     else:
         await ctx.send('TIDAK ADA FILE YAND DIKIRIM')
 
-bot.run("MTEyODk4NzQ5Njk1NzYxNjIxOQ.GmDLqU.lxCMf7l_cEyLz__gzbZg-NuGgEPoF5CMGeSC0s")
+bot.run("")
